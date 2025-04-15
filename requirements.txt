@@ -1,0 +1,4 @@
+opencv-python
+numpy
+# Остальные библиотеки установить, запуская master_notebook.ypinb
+# В том числе и NeuZip
