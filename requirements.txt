@@ -1,4 +1,6 @@
 opencv-python
-numpy
-# Остальные библиотеки установить, запуская master_notebook.ypinb
-# В том числе и NeuZip
+torch>=2.0.0 
+numpy>=1.21.0
+ultralytics>=8.0.0
+onnxruntime>=1.15.0
+# NeuZip устанавливается отдельно и самостоятельно
