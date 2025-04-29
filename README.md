@@ -37,12 +37,13 @@
 
 ## Результаты
 
-Model    | Version      | Inf. ms | Inf. NeuZip ms | mAP50 | Speed Δ
--------------------------------------------------------------------
-YOLOv8   | Original     | 11.1    | –              | 0.836 | –
-YOLOv8   | Optimized    | 11.1    | 8.8            | 0.836 | ~20%
-YOLOv11  | Original     | 13.8    | –              | 0.834 | –
-YOLOv11  | Optimized    | 13.8    | 9.9            | 0.834 | ~28%
+| Model   | Version   | Inf. ms | Inf. NeuZip ms | mAP50 | Speed Δ |
+|---------|-----------|---------|----------------|-------|---------|
+| YOLOv8  | Original  | 11.1    | –              | 0.836 | –       |
+| YOLOv8  | Optimized | 11.1    | 8.8            | 0.836 | ~20%    |
+| YOLOv11 | Original  | 13.8    | –              | 0.834 | –       |
+| YOLOv11 | Optimized | 13.8    | 9.9            | 0.834 | ~28%    |
+
 
 
 
