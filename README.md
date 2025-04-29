@@ -22,11 +22,12 @@
 ## Используемые технологии
 
 *   **Язык программирования**: Python 3.10
-*   **Фреймворк машинного обучения**: PyTorch 2.1.0
+*   **Фреймворк машинного обучения**: PyTorch 2.1.0, Ultralytics YOLO  
 *   **Библиотеки**: NumPy 2.1.2, NeuZip
 *   **CUDA**: 12.4
 *   **Архитектуры нейронных сетей**: YOLOv8, YOLOv11
-*   **Облачный сервер**: [Immers cloud](https://immers.cloud/) (Tesla A100, 16 vCPU, 64 GB RAM, 160 GB Disk, Ubuntu 22.04.4, CUDA 12.3)
+*   **Среда выполнения**: Google Colab (Tesla T4, 16 GB VRAM, Python 3.10, CUDA 12.4) 
+*   **Облачный сервер**: [Immers cloud](https://immers.cloud/) (Tesla A100, 16 vCPU, 64 GB RAM, 160 GB Disk, Ubuntu 22.04.4, CUDA 12.4)
 
 ## Этапы работы
 1.  **Подготовка датасета**: Сбор и разметка данных, создание конфигурационного файла `dataset.yaml`.
