@@ -43,6 +43,8 @@
 | YOLOv8  | Optimized | 11.1    | 8.8            | 0.836 | ~20%    |
 | YOLOv11 | Original  | 13.8    | –              | 0.834 | –       |
 | YOLOv11 | Optimized | 13.8    | 9.9            | 0.834 | ~28%    |
+## Визуализация
+![Сравнение времени инференса до и после оптимизации](https://github.com/kcherenkovv/neuzip/blob/main/images/загруженное.png)
 
 
 
